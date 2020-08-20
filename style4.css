@@ -1,0 +1,44 @@
+
+
+body
+{
+    background-color:#2f3035 ;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Images/5_6325716756551696480.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+h1
+{
+    color: cyan;
+    font-size: 60px;
+    text-align: center;
+    height: 118px;
+
+}
+h2
+{
+    color: cyan;
+    font-size: 30px;
+    padding-left: 50px;
+
+}h3
+{
+    color: cyan;
+    font-size: 30px;
+    padding-left: 50px;
+
+}h4
+{
+    color: cyan;
+    font-size: 30px;
+    padding-left: 50px;
+
+
+}
+p{
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+}
